@@ -1,0 +1,6 @@
+{
+  "name": "ARQ.works — Architecture & Design Studio",
+  "description": "ARQ.works is a creative architectural and design studio based in Ethiopia, providing architecture, interior design, exterior design, 3D modeling, and architectural visualization services worldwide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
