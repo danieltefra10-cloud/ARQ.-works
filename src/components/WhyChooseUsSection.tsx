@@ -212,7 +212,7 @@ export const WhyChooseUsSection: React.FC<WhyChooseUsSectionProps> = ({ onOpenCo
                             onError={(e) => {
                               // Fallback portrait
                               (e.target as HTMLImageElement).src =
-                                '/src/assets/images/team_member_portrait_1791806693789.jpg';
+                                '/images/team_member_portrait_1791806693789.jpg';
                             }}
                           />
                         </div>

@@ -14,7 +14,7 @@ export const Footer: React.FC<FooterProps> = ({ onOpenJournal }) => {
       {/* Background 3D Architectural Render: Prominently displayed with atmospheric contrast */}
       <div className="absolute inset-0 z-0 overflow-hidden pointer-events-none">
         <img
-          src="/src/assets/images/project_botanical_courtyard_1792050210549.jpg"
+          src="/images/project_botanical_courtyard_1792050210549.jpg"
           alt="Architectural Render Backdrop"
           className="w-full h-full object-cover object-center filter saturate-[0.9] brightness-[0.7] transform scale-105"
         />

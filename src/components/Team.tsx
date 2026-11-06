@@ -3,7 +3,7 @@ import { ArrowRight, MapPin, Upload, Play, Pause, ChevronLeft, ChevronRight, Act
 import { TEAM_MEMBERS } from '../data/studioData';
 import { TeamMember } from '../types';
 
-const FALLBACK_STUDIO_PORTRAIT = '/src/assets/images/team_member_portrait_1791806693789.jpg';
+const FALLBACK_STUDIO_PORTRAIT = '/images/team_member_portrait_1791806693789.jpg';
 
 interface CardTiltProps {
   member: TeamMember;

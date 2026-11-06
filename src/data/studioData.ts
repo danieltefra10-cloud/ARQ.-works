@@ -51,7 +51,7 @@ export const PROJECTS: Project[] = [
     area: '260 m²',
     description:
       'Bespoke residential interior and spatial design featuring microcement plaster walls, low-profile custom oak millwork, sculpted marble centerpieces, and curated architectural lighting.',
-    image: '/src/assets/images/luxury_interior_design_1791566856899.jpg',
+    image: '/images/luxury_interior_design_1791566856899.jpg',
     scope: ['Residential Building Design', 'Furniture & Space Planning', 'Materials, Finishes & Lighting Concepts', 'Interior design'],
     client: 'Private Residence',
     features: ['Curated bespoke FF&E palette', 'Textured lime microcement wall finish', 'Indirect recessed LED wash lighting', 'Custom Arabescato marble tables'],
@@ -68,7 +68,7 @@ export const PROJECTS: Project[] = [
     area: '340 m²',
     description:
       'Designed for an international sculptor and textile artist, the Atelier House explores interior spatial planning, tactile lime-plaster surfaces, and double-height light wells optimized for studio work.',
-    image: '/src/assets/images/project_atelier_house_1791296891607.jpg',
+    image: '/images/project_atelier_house_1791296891607.jpg',
     scope: ['Residential Building Design', 'Furniture & Space Planning', 'Interior design'],
     client: 'Artist Fellowship Residence',
     features: ['Double-height north-facing skylights', 'Polished basalt terrazzo', 'Integrated exhibition gallery', 'Courtyard rain garden'],
@@ -85,7 +85,7 @@ export const PROJECTS: Project[] = [
     area: '420 m²',
     description:
       'A serene lakefront hospitality pavilion blending honed beige travertine, reclaimed Ethiopian cedar, and operable glass partitions that dissolve the threshold between sanctuary and nature.',
-    image: '/src/assets/images/project_garden_pavilion_1791296882009.jpg',
+    image: '/images/project_garden_pavilion_1791296882009.jpg',
     scope: ['Commercial Building Design', 'Landscape Design', 'Furniture & Space Planning'],
     client: 'Boutique Wellness Resort',
     features: ['Honed travertine floor slabs', 'Acoustic slatted timber ceiling', 'Natural light wells', 'Seamless indoor-outdoor terrace'],
@@ -102,7 +102,7 @@ export const PROJECTS: Project[] = [
     area: '530 m²',
     description:
       'A luxury residential landscape masterplan featuring integrated teak wood decks, sunken reflection water pool with illuminated floating stepping stones, and curated indigenous flora.',
-    image: '/src/assets/images/project_botanical_courtyard_1792050210549.jpg',
+    image: '/images/project_botanical_courtyard_1792050210549.jpg',
     scope: ['Landscape Masterplanning', 'Outdoor Living Spaces & Terraces', 'Hardscape & Water Feature Design', 'Architectural Lighting Integration'],
     client: 'Private Estate Commission',
     features: ['Sunken reflection pool with infinity edge', 'Floating honed limestone stepping stones', 'Linear integrated warm LED deck lighting', 'Microclimate tropical garden zoning'],
@@ -119,7 +119,7 @@ export const PROJECTS: Project[] = [
     area: '820 m²',
     description:
       'Full architectural AutoCAD drafting, construction document set (A-01 through A-18), and Revit BIM conversion with axonometric structural coordination.',
-    image: '/src/assets/images/cad_bim_technical_1791566847012.jpg',
+    image: '/images/cad_bim_technical_1791566847012.jpg',
     scope: ['AutoCAD Drafting', 'CAD-to-Revit Conversion', 'Construction Drawings', 'Permit Drawings', 'Technical Documentation'],
     client: 'The Reef Architecture & Dev',
     features: ['BIM LOD 350 parametric model', 'Comprehensive wall section details', 'Permit-ready sheet sets', 'Multi-discipline clash coordination'],
@@ -136,7 +136,7 @@ export const PROJECTS: Project[] = [
     area: '14,200 m²',
     description:
       'A high-performance workplace tower featuring dynamic vertical louvers designed with parametric solar modeling, BIM coordination, and detailed construction documentation.',
-    image: '/src/assets/images/project_verde_commercial_1791296902170.jpg',
+    image: '/images/project_verde_commercial_1791296902170.jpg',
     scope: ['Parametric CAD Modeling', 'BIM Coordination', 'Construction Drawings', 'Facade Engineering'],
     client: 'East Africa Development Bank',
     features: ['Parametric kinetic louvers', 'Revit BIM Level 2 compliance', 'LEED documentation package', 'Prefabricated unitized curtain wall drawings'],
@@ -153,7 +153,7 @@ export const PROJECTS: Project[] = [
     area: '780 m²',
     description:
       'A multi-level hillside sanctuary integrating dry-stacked fieldstone masonry, raw concrete overhangs, steel framing, and warm cedar pergolas with photorealistic CGI visualization.',
-    image: '/src/assets/images/hero_forest_villa_bg_1791299195833.jpg',
+    image: '/images/hero_forest_villa_bg_1791299195833.jpg',
     scope: ['3D Architectural Modeling', 'Photorealistic Exterior Rendering', 'Landscape Design', 'AI Visualization Animation'],
     client: 'Private Commission',
     features: ['Dry-stacked natural stone masonry', 'Cantilevered cedar timber pergolas', 'Biophilic hillside terracing', 'Triple-glazed thermal facade'],
@@ -170,7 +170,7 @@ export const PROJECTS: Project[] = [
     area: '920 m²',
     description:
       'Cantilevered brutalist architectural CGI study exploring warm board-formed concrete textures, travertine ground planes, and ultra-high dynamic range illumination.',
-    image: '/src/assets/images/hero_brutalist_architecture_1791296855254.jpg',
+    image: '/images/hero_brutalist_architecture_1791296855254.jpg',
     scope: ['3D Architectural Modeling', 'Photorealistic Exterior Rendering', 'Virtual Walkthroughs'],
     client: 'Private Collector',
     features: ['Cantilever structural visualization', 'Reflective water surface physics', 'Deep sunset horizon lighting', 'Architectural animation keyframes'],
@@ -187,7 +187,7 @@ export const PROJECTS: Project[] = [
     area: '680 m²',
     description:
       'A monolithic rammed concrete residence stepped organically into the topography of the Entoto Ridge. Floor-to-ceiling thermal glazing frames panoramic valley views with realistic lighting simulation.',
-    image: '/src/assets/images/project_hilltop_residence_1791296869860.jpg',
+    image: '/images/project_hilltop_residence_1791296869860.jpg',
     scope: ['Sketch-up & Rhino 3D Modeling', 'Photorealistic Exterior Rendering', 'Aerial & Real-Estate Visualization'],
     client: 'Private Commission',
     features: ['Board-formed exposed concrete', 'Integrated rainwater catchment', 'Native stone retaining walls', 'Passive geothermal cooling'],
@@ -231,7 +231,7 @@ export const SERVICES: ServiceItem[] = [
       'Renovation & Adaptive Reuse Plans',
     ],
     icon: 'drafting',
-    image: '/src/assets/images/hero_brutalist_architecture_1791296855254.jpg',
+    image: '/images/hero_brutalist_architecture_1791296855254.jpg',
   },
   {
     id: 'landscape-architecture',
@@ -246,7 +246,7 @@ export const SERVICES: ServiceItem[] = [
       'Drainage & Rainwater Catchment Studies',
     ],
     icon: 'landscape',
-    image: '/src/assets/images/project_garden_pavilion_1791296882009.jpg',
+    image: '/images/project_garden_pavilion_1791296882009.jpg',
   },
   {
     id: 'revit-drafting-outsourcing',
@@ -261,7 +261,7 @@ export const SERVICES: ServiceItem[] = [
       'Central Model Maintenance & Worksharing',
     ],
     icon: 'revit',
-    image: '/src/assets/images/cad_bim_technical_1791566847012.jpg',
+    image: '/images/cad_bim_technical_1791566847012.jpg',
   },
   {
     id: 'construction-permit-sets',
@@ -276,7 +276,7 @@ export const SERVICES: ServiceItem[] = [
       'Municipal Permit Submission Sets',
     ],
     icon: 'construction',
-    image: '/src/assets/images/project_verde_commercial_1791296902170.jpg',
+    image: '/images/project_verde_commercial_1791296902170.jpg',
   },
   {
     id: '3d-modeling-rendering',
@@ -291,7 +291,7 @@ export const SERVICES: ServiceItem[] = [
       'Aerial & Masterplan Real-Estate Views',
     ],
     icon: 'rendering',
-    image: '/src/assets/images/hero_forest_villa_bg_1791299195833.jpg',
+    image: '/images/hero_forest_villa_bg_1791299195833.jpg',
   },
   {
     id: '3d-architectural-animation',
@@ -306,7 +306,7 @@ export const SERVICES: ServiceItem[] = [
       'Post-Production Color Grading & Sound FX',
     ],
     icon: 'animation',
-    image: '/src/assets/images/project_hilltop_residence_1791296869860.jpg',
+    image: '/images/project_hilltop_residence_1791296869860.jpg',
   },
 ];
 

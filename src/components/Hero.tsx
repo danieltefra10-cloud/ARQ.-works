@@ -9,7 +9,7 @@ interface HeroProps {
 const HERO_SLIDES = [
   {
     id: 'slide-1',
-    image: 'blob:https://www.pinterest.com/ef80c621-2db1-40fb-b73d-d69115aaac21',
+    image: 'https://i.pinimg.com/736x/4f/a5/3a/4fa53a0b7d688cc59eaffb61b34caad6.jpg',
     fallback: 'https://i.pinimg.com/736x/4f/a5/3a/4fa53a0b7d688cc59eaffb61b34caad6.jpg',
     title: 'Architectural Project 01',
   },

@@ -240,7 +240,7 @@ export const ServiceDetailPage: React.FC<ServiceDetailPageProps> = ({
         {/* Background Image: Night Architecture with Dark Gradient Overlay */}
         <div className="absolute inset-0 z-0">
           <img
-            src="/src/assets/images/service_hero_banner_bg_1792055299660.jpg"
+            src="/images/service_hero_banner_bg_1792055299660.jpg"
             alt={service.title}
             className="w-full h-full object-cover object-center brightness-60 contrast-110"
           />
@@ -342,7 +342,7 @@ export const ServiceDetailPage: React.FC<ServiceDetailPageProps> = ({
             <div className="lg:col-span-5">
               <div className="relative rounded-2xl overflow-hidden shadow-2xl border border-neutral-200/90 group">
                 <img
-                  src="/src/assets/images/service_architecture_showcase_1792055283096.jpg"
+                  src="/images/service_architecture_showcase_1792055283096.jpg"
                   alt="Architectural Building Outsourcing Showcase"
                   className="w-full aspect-[4/3] object-cover object-center group-hover:scale-105 transition-transform duration-700 ease-out"
                 />
